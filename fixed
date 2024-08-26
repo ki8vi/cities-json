@@ -190,16 +190,6 @@
     ]
   },
   {
-    "id": 20,
-    "city": "Singapore",
-    "latitude": 1.3521,
-    "longitude": 103.8198,
-    "connectedTo": [
-      { "id": 19, "distance": 2611 },
-      { "id": 21, "distance": 2212 }
-    ]
-  },
-  {
     "id": 21,
     "city": "Jakarta",
     "latitude": -6.2088,
@@ -207,16 +197,6 @@
     "connectedTo": [
       { "id": 20, "distance": 2212 },
       { "id": 22, "distance": 5936 }
-    ]
-  },
-  {
-    "id": 22,
-    "city": "Seoul",
-    "latitude": 37.5665,
-    "longitude": 126.9780,
-    "connectedTo": [
-      { "id": 21, "distance": 5936 },
-      { "id": 23, "distance": 13102 }
     ]
   },
   {
@@ -263,6 +243,7 @@
     "id": 27,
     "city": "Kuala Lumpur",
     "latitude": 3.139,"longitude": 101.6869,
+    "longitude": -99.1312,
     "connectedTo": [
       { "id": 26, "distance": 2385 },
       { "id": 28, "distance": 4475 }
@@ -366,16 +347,6 @@
     "connectedTo": [
       { "id": 36, "distance": 2335 },
       { "id": 38, "distance": 1674 }
-    ]
-  },
-  {
-    "id": 38,
-    "city": "Singapore",
-    "latitude": 1.3521,
-    "longitude": 103.8198,
-    "connectedTo": [
-      { "id": 37, "distance": 1674 },
-      { "id": 39, "distance": 1033 }
     ]
   },
   {
